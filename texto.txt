@@ -1,0 +1,4 @@
+este archivo
+contiene
+cuatro lineas
+de texto
